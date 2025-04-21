@@ -1,1 +1,7 @@
-Aqui se agrega el informe detallado con las recomendaciones al Sr Juan
+El propósito del análisis realizado.
+
+La estructura del proyecto y organización de los archivos.
+
+Ejemplos de gráficos e insights obtenidos.
+
+Instrucciones para ejecutar el notebook.
